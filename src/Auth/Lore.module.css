@@ -1,0 +1,37 @@
+body{
+  background-image: url(./bgr1.png);
+  block-size: 50%;
+}
+.regist{
+  margin: 300px 200px 200px 700px;
+  border: 2px solid;
+  padding: 50px 50px 50px 50px;
+  width: 9%;
+  background-image: url(./bgr2.png);
+  border-radius: 10px;
+}
+
+.inpt {
+  margin-bottom: 15px;
+  border: solid;
+  border-radius: 7px;
+  padding: 5px;
+}
+button{
+  padding: 5px;
+  font-family: Permanent Marker;
+  border-radius: 10px;
+}
+button:hover {
+  color: white;
+  background-color: black;
+}
+
+.log {
+  margin: 300px 200px 200px 700px;
+  border: 2px solid;
+  padding: 50px 50px 50px 50px;
+  width: 9%;
+  background-image: url(./bgr2.png);
+  border-radius: 10px;
+}
